@@ -13,7 +13,7 @@ d'expérience, le sexe, l'identité ou l'expression de genre, l'orientation
 sexuelle, le handicap, l'apparence personnelle, la taille physique, la race,
 l'origine ethnique, l'âge, la religion ou la nationalité.
 
-Exemples de comportements non acceptables :
+Exemples de comportements non-acceptables :
 
 * l'utilisation de langage ou d'imagerie sexualisés ;
 * les attaques personnelles ;
