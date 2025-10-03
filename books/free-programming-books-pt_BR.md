@@ -90,6 +90,7 @@
 #### Sistemas Operacionais
 
 * [Guia Foca Linux](https://www.guiafoca.org/#download) - Gleydson Maziolli (PDF)
+* [Linux Essentials](https://learning.lpi.org/pt/learning-materials/010-160/) - Linux Professional Institute (HTML, PDF) (CC BY-NC-ND 4.0)
 * [Sistemas Operacionais: Conceitos e Mecanismos](http://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-livro.pdf) - Carlos A. Maziero (PDF) (CC BY-NC-SA) *( :construction: em contínuo desenvolvimento)*
 
 
@@ -247,6 +248,7 @@
 ### Internet das Coisas
 
 * [A Internet das Coisas](https://bibliotecadigital.fgv.br/dspace/bitstream/handle/10438/23898/A%20internet%20das%20coisas.pdf) - Eduardo Magrani (PDF) (CC BY-SA)
+* [Internet Das Coisas Uma Breve Introdução E Perspectivas Na Área Da Saúde](https://educapes.capes.gov.br/bitstream/capes/747555/1/Internet%20das%20Coisas.pdf) - Adriana Camargo Ferrasi, et al. (PDF)
 
 
 ### Java
